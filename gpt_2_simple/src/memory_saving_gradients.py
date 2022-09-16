@@ -7,7 +7,7 @@ import sys
 
 # tensorflow 1
 try:
-    import tensorflow.contrib.graph_editor as ge
+    import graph_def_editor as ge
 # tensorflow 2
 except:
     pass
